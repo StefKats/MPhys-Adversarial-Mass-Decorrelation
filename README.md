@@ -9,3 +9,4 @@ Sequence to run the notebooks to generate the results:
 3. ANN benchmark performance with 5% myy corr.
 4. ANN training (hyperparameter optimisation)
 
+layers.py and ops.py are local import files used in notebook 3 and 4.
