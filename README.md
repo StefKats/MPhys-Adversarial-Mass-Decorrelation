@@ -1,5 +1,5 @@
 # README
-Applying Adversarial Neural Networks (ANNs) to improve classification of Higgs boson events in the diphoton decay channel. 
+Applying Adversarial Neural Networks (ANNs) within the ATLAS experiment to improve classification of Higgs boson events in the diphoton decay channel. 
 
 First need the <b>PowhegPy8EG_NNPDF30_VBFH125mc16a.csv</b> (Higgs->diphoton signal) and <b>Sherpa2_yyjj_njetGeq2_mjj_gt350.csv</b> (non-resonant background) datasets.
 
