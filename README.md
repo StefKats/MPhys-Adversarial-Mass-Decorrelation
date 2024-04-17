@@ -1,5 +1,11 @@
 # Adversarial neural networks for Higgs physics
-Applying Adversarial Neural Networks (ANNs) within the ATLAS experiment to improve classification of Higgs boson events in the diphoton decay channel.
+Applying Adversarial Neural Networks (ANNs) within the ATLAS experiment to improve the classification of Higgs boson events in the diphoton decay channel.
+
+In this thesis, the problem of mass sculpting is addressed when training a supervised classifier between Higgs signal and non-resonant background events.
+
+<!--Mass sculpting can be addressed in multiple ways: -->
+
+<!-- Re-weighting the background or signal input data to be uniform in the invariant mass -->
 
 Overview presentation slides of this study can be found in <b>MPhys ANN overview.pdf</b>.
 
