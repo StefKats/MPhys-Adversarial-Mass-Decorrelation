@@ -1,5 +1,10 @@
-# Adversarial neural networks for Higgs physics
-Applying Adversarial Neural Networks (ANNs) within the ATLAS experiment to improve the classification of Higgs boson events in the diphoton decay channel. In this work, the problem of mass sculpting is addressed when training a supervised classifier between Higgs signal and non-resonant background events.
+# Adversarial mass decorrelation for Higgs physics
+
+This study is based on adapting the adversarial techniques introduced in "Decorrelated Jet Substructure Tagging using Adversarial Neural Networks", https://arxiv.org/pdf/1703.03507.
+
+An Adversarial Neural Network (ANN) is applied within the context of the ATLAS experiment to actively reduce the bias in the classification of Higgs boson events in the diphoton decay channel. The ANN is used to control the level of background sculpting when training a supervised classifier on vector boson fusion Higgs signal and non-resonant background events. 
+
+<!-- Applying Adversarial Neural Networks (ANNs) within the ATLAS experiment to improve the classification of Higgs boson events in the diphoton decay channel. In this work, the problem of mass sculpting is addressed when training a supervised classifier between Higgs signal and non-resonant background events. -->
 
 <!--Mass sculpting can be addressed in multiple ways: -->
 
