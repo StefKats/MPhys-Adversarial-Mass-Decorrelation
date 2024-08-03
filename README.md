@@ -2,7 +2,8 @@
 
 This study adapts the adversarial techniques introduced in "Decorrelated Jet Substructure Tagging using Adversarial Neural Networks" (https://arxiv.org/pdf/1703.03507) for applications in Higgs physics. 
 
-<img src="https://raw.githubusercontent.com/StefKats/MPhys-Adversarial-Mass-Decorrelation/main/sculpting_figures.PNG" alt="Project Diagram" width="800" />
+<img src="https://raw.githubusercontent.com/StefKats/MPhys-Adversarial-Mass-Decorrelation/main/images/sculpting_figures.PNG" alt="Project Diagram" width="800" />
+
 <!-- I applied an Adversarial Neural Network (ANN) within the context of the ATLAS experiment to actively reduce the bias in the classification of Higgs boson events in the diphoton decay channel. The ANN is used to control the level of background sculpting when training a supervised classifier on vector boson fusion Higgs signal and non-resonant background events. The goal of the ANN is to fit a Gaussian mixture model (GMM) and -->
 
 ## Introduction
