@@ -28,7 +28,7 @@ The plots above on the right show the background mass distributions for classifi
 
 ## Presentation slides and recreating the study 
 
-Overview presentation slides of this study can be found in <b>MPhys ANN overview.pdf</b>.
+Overview presentation slides of this study can be found in <b>MPhys overview slides.pdf</b>.
 
 First need the <b>PowhegPy8EG_NNPDF30_VBFH125mc16a.csv</b> (Higgs->diphoton signal) and <b>Sherpa2_yyjj_njetGeq2_mjj_gt350.csv</b> (non-resonant background) datasets.
 
