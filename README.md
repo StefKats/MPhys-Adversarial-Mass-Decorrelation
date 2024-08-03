@@ -39,3 +39,7 @@ Sequence to run the notebooks to generate the results:
 4. ANN training (hyperparameter optimisation)
 
 layers.py and ops.py are local import files used in notebooks 3 and 4.
+
+## Acknowledgments 
+
+Many thanks to my supervisor Dr. Liza Mijovic for her invaluable suggestions and advice during this study. 
