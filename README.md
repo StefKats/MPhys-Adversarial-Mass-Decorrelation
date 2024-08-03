@@ -18,7 +18,7 @@ I tackled this problem by combining the classifier with an adversarial neural ne
 
 ## Sculpting performance
 
-The plots above on the right show the background mass distributions for classifier scores (Z_NN) in the ranges 0-0.02 and 0.49-0.51. The Z_NN score signifies how much the classifier thinks a given event is a signal. In the classifier-only case, there is a clear sculpting in both mass ranges. For the adversary+classifier case, the distributions are identical between the two ranges. To demonstrate the GMM fit, the GMM was trained at the end for both scenarios and the learned fit is displayed. The plots on the left overlay the GMM fits over the inclusive background distributions before any cuts are made.
+The plots on the right (above) show the background mass distributions for classifier scores (Z_NN) in the ranges 0-0.02 and 0.49-0.51. The Z_NN score signifies how much the classifier thinks a given event is a signal. In the classifier-only case, there is a clear sculpting in both mass ranges. For the adversary+classifier case, the distributions are identical between the two ranges. To demonstrate the GMM fit, the GMM was trained at the end for both scenarios and the learned fit is displayed. The plots on the left overlay the GMM fits over the inclusive background distributions before any cuts are made.
 
 <!-- Applying Adversarial Neural Networks (ANNs) within the ATLAS experiment to improve the classification of Higgs boson events in the diphoton decay channel. In this work, the problem of mass sculpting is addressed when training a supervised classifier between Higgs signal and non-resonant background events. -->
 
